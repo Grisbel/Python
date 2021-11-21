@@ -8,3 +8,6 @@ PYTHON FUNDAMENTALS:
        3) Cumulative Challenge Project: combine knowledge of Python to help a mad scientist perform some calculations on his data.
 
 
+DATA MANIPULATION  WITH PANDAS:
+
+      1) Manipulation Challenge Project: data manipulation skills to the test with a Jeopardy project!
